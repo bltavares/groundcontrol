@@ -1,0 +1,2 @@
+# groundcontrol
+Terraform configuration generator
